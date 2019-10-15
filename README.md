@@ -9,3 +9,5 @@ Os encontros serão feitos quinzenalmente, sendo escolhido um tema para o mês q
 Os temas serão escolhidos no [Slack](grupo-cc.slack.com). Também lá serão disponibilizados os materiais auxiliares, que deverão ser colocados neste repositório.
 
 É recomendado que se leia o material indicado antes do encontro, para se ter um melhor aproveitamento dos encontros.
+
+Visando um ambiente diverso e saudável para a difusão e compartilhamento de conhecimento, pedimos a todos que leiam e sigam nosso [código de conduta](https://github.com/grupo-cc/gcc/blob/master/CODE_OF_CONDUCT.md).
